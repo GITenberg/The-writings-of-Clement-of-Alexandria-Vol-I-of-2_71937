@@ -5,12 +5,17 @@ contributor:
     agent_name: Wilson, William Thomas
     gutenberg_agent_id: '50102'
     url: http://www.gutenberg.org/2009/agents/50102
+covers:
+- cover_type: archival
+  image_path: 71937-h/images/cover.jpg
 creator:
   author:
     agent_name: Alexandria, Clement of
     gutenberg_agent_id: '56466'
     url: http://www.gutenberg.org/2009/agents/56466
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71937#The-writings-of-Clement-of-Alexandria-Vol-I-of-2
 gutenberg_issued: '2023-10-23'
 identifiers:
   gutenberg: '71937'
